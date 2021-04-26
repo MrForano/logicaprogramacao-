@@ -10,11 +10,12 @@ print(' ')
 print('---------------------------------------')
 print(' ')
 
-li = list(" ")
+text = "Eu sou um aluno feliz"
+li = list(text.split(" "))
 
 
 str1 = "Eu sou um aluno feliz"
-print(str1)
+print(li)
 
 print(' ')
 print('---------------------------------------')
