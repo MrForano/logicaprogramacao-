@@ -21,7 +21,7 @@ print(' ')
 print('---------------------------------------')
 print(' ')
 
-list = [1, 2, 3, 4]
+list = [3, 6, 3, 2, 1]
 list_sum = sum(list)
 print(list_sum)
 
