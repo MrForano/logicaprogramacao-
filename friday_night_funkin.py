@@ -54,4 +54,3 @@ def minimo_de_3(n1, n2, n3):
   minimos = meu_sort(lista)[:2]
   media = minha_soma(minimos)/2
   
-  
